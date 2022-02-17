@@ -6,8 +6,8 @@ The SUIM-E dataset is created by supplementing the [SUIM](https://github.com/xah
 We used 12 underwater image enhancement methods to generate candidate reference images, including CE[1], Fusion [2], GCHE [3], HistogramPiror [4], HUE [5], IBLA [6], Retinex [7], TwoStep [8], UCM [9], ULAP[10]), DCP [11] and a commercial application for enhancing underwater images (i.e., dive+ [12] ). During the whole voting phase on SUIM dataset, the distribution of votes received by different underwater enhancement methods and the percentages of the reference images from the results of different methods are shown below.
 
 <table><tr>
-<td><img src="./figs/votes.png" width="2000px" height="450px"></td>
-<td><img src="./figs/percentage.png" width="2000px" height="450px"></td>
+<td><img src="./figs/votes.png"></td>
+<td><img src="./figs/percentage.png"></td>
 </tr>
 <tr>
 <td align="center">The percentages of votes received by diﬀerent underwater enhancement methods in the vote on the whole dataset.</td>
