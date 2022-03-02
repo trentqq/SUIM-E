@@ -21,6 +21,24 @@ The SUIM-E dataset contains a total of 1635 real-world underwater images, along 
 
 [Google Drive Link](https://drive.google.com/drive/folders/1gA3Ic7yOSbHd3w214-AgMI9UleAt4bRM?usp=sharing)
 
+## Bibtex
+```
+@article{qi2022sguie,
+  title={SGUIE-Net: Semantic Attention Guided Underwater Image Enhancement with Multi-Scale Perception},
+  author={Qi, Qi and Li, Kunqian and Zheng, Haiyong and Gao, Xiang and Hou, Guojia and Sun, Kun},
+  journal={arXiv preprint arXiv:2201.02832},
+  year={2022}
+}
+
+@inproceedings{islam2020suim,
+  title={{Semantic Segmentation of Underwater Imagery: Dataset and Benchmark}},
+  author={Islam, Md Jahidul and Edge, Chelsey and Xiao, Yuyang and Luo, Peigen and Mehtaz, 
+          Muntaqim and Morse, Christopher and Enan, Sadman Sakib and Sattar, Junaed},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2020},
+  organization={IEEE/RSJ}
+}
+```
 ## References
 > [1] Y. Wang, W. Song, G. Fortino, L.-Z. Qi, W. Zhang, and A. Liotta, “An experimental-based review of image enhancement and image restoration methods for underwater imaging,” IEEE Access, vol. 7, pp. 140 233140 251, 2019.  
 [2] C. Ancuti, C. O. Ancuti, T. Haber, and P. Bekaert, “Enhancing underwater images and videos by fusion,” in IEEE Conference on Computer Vision and Pattern Recognition, 2012, pp. 81–88.  
