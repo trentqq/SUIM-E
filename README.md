@@ -21,6 +21,8 @@ The SUIM-E dataset contains a total of 1635 real-world underwater images, along 
 
 [Google Drive Link](https://drive.google.com/drive/folders/1gA3Ic7yOSbHd3w214-AgMI9UleAt4bRM?usp=sharing)
 
+[BaiduCloud Link](https://pan.baidu.com/s/1lPrHs4tjQbmaZw1Z1inMew) (Extraction code: 6uaf)
+
 ## Bibtex
 ```
 @article{qi2022sguie,
